@@ -1,0 +1,21 @@
+2025-03-20 14:00:31,039 - CryptoXpressBot - INFO - Twitter API connection established successfully
+2025-03-20 14:00:31,040 - CryptoXpressBot - INFO - CryptoXpress Bot started. Using AI-generated content. Posting interval: 180 minutes.
+2025-03-20 14:00:31,041 - CryptoXpressBot - INFO - Bot will run for maximum 12 hours
+2025-03-20 14:00:33,164 - CryptoXpressBot - INFO - Posted tweet: Manage your NFTs effortlessly with CryptoXpress. Our platform offers a seamless NFT management solution, allowing you to buy, sell, and store your digital collectibles in one place. Upgrade your NFT experience today! #CryptoXpress #NFTmanagement
+2025-03-20 14:00:33,169 - CryptoXpressBot - INFO - Next tweet scheduled in 145.2 minutes (around 16:25:46)
+2025-03-20 14:01:37,876 - CryptoXpressBot - INFO - Twitter API connection established successfully
+2025-03-20 14:01:37,902 - CryptoXpressBot - INFO - Loaded 1 previously posted tweets
+2025-03-20 14:01:37,903 - CryptoXpressBot - INFO - CryptoXpress Bot started. Using AI-generated content. Posting interval: 1 minutes.
+2025-03-20 14:01:37,903 - CryptoXpressBot - INFO - Bot will run for maximum 12 hours
+2025-03-20 14:01:38,958 - CryptoXpressBot - ERROR - Error posting tweet: 403 Forbidden
+You are not allowed to create a Tweet with duplicate content.
+2025-03-20 14:01:38,958 - CryptoXpressBot - WARNING - Tweet posting failed. Retrying in 10 minutes...
+2025-03-20 14:02:07,117 - CryptoXpressBot - INFO - Twitter API connection established successfully
+2025-03-20 14:02:07,119 - CryptoXpressBot - INFO - Loaded 1 previously posted tweets
+2025-03-20 14:02:07,120 - CryptoXpressBot - INFO - CryptoXpress Bot started. Using AI-generated content. Posting interval: 1 minutes.
+2025-03-20 14:02:07,120 - CryptoXpressBot - INFO - Bot will run for maximum 12 hours
+2025-03-20 14:02:08,027 - CryptoXpressBot - INFO - Generated duplicate tweet, retrying...
+2025-03-20 14:02:08,087 - CryptoXpressBot - ERROR - Error generating tweet with TextGen: HTTPSConnectionPool(host='api.textgen.dev', port=443): Max retries exceeded with url: /api/v1/generate (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001FBE4E5B850>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-20 14:02:08,578 - CryptoXpressBot - ERROR - Error posting tweet: 429 Too Many Requests
+Too Many Requests
+2025-03-20 14:02:08,579 - CryptoXpressBot - WARNING - Tweet posting failed. Retrying in 10 minutes...
