@@ -3,6 +3,7 @@
 ## Overview
 
 The CryptoXpress Twitter Bot is an automated system for generating and posting cryptocurrency-related content on Twitter for the CryptoXpress platform. The bot utilizes AI text generation APIs to create engaging and informative tweets about various CryptoXpress features and services, posting them at regular intervals.
+(The bot is personalized for CryptoXpress using data sourced directly from the website.)
 
 ## Features
 
