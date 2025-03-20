@@ -42,11 +42,11 @@ The bot requires Twitter API credentials to function. These can be provided in t
 ### Environment Variables
 Set the following environment variables:
 ```bash
-export TWITTER_CONSUMER_KEY="your_consumer_key"
-export TWITTER_CONSUMER_SECRET="your_consumer_secret"
-export TWITTER_ACCESS_TOKEN="your_access_token"
-export TWITTER_ACCESS_TOKEN_SECRET="your_access_token_secret"
-export HF_API_KEY="your_huggingface_api_key"  # Optional
+TWITTER_CONSUMER_KEY="your_consumer_key"
+TWITTER_CONSUMER_SECRET="your_consumer_secret"
+TWITTER_ACCESS_TOKEN="your_access_token"
+TWITTER_ACCESS_TOKEN_SECRET="your_access_token_secret"
+HF_API_KEY="your_huggingface_api_key"  # Optional
 ```
 
 ### Google Colab
